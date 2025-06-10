@@ -50,3 +50,13 @@
   <br/>
 </li>
 </ul>
+
+
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/Command-Prompt-ipconfig-all">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Command Prompt – ipconfig /all</strong>
+  </a>
+  <br/>
+</li>
+</ul>
