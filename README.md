@@ -15,7 +15,7 @@
 <ul>
 <li>
   <a href="https://github.com/RashadHagen/Command-Prompt-Ping">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Command Prompt – Ping</strong>
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Command Prompt – ping</strong>
   </a>
   <br/>
 </li>
