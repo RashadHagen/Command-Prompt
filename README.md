@@ -44,6 +44,16 @@
 
 <ul>
 <li>
+  <a href="https://github.com/RashadHagen/Command-Prompt-net-user">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Command Prompt – net user</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
+<ul>
+<li>
   <a href="https://github.com/RashadHagen/Command-Prompt-net-user-user-s-domain-username-domain">
     <strong style="font-family: Arial, sans-serif; font-size: 16px;">Command Prompt – net user (user’s domain username) /domain</strong>
   </a>
@@ -60,3 +70,6 @@
   <br/>
 </li>
 </ul>
+
+
+
